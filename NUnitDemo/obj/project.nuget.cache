@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ul9ppmZcMsU5s13hNKzYi7hUPjYVgU487Jy4ZHg6kW3O1XuwfPvAiQA4A2eEIkyvTK4Ao8Zey9vcQ6hQ85k6uQ==",
+  "success": true,
+  "projectFilePath": "/Users/adedotun/Projects/NUnitDemo/NUnitDemo/NUnitDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/adedotun/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/adedotun/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/adedotun/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/adedotun/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
